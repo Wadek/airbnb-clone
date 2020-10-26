@@ -1,4 +1,10 @@
+
+testing auto deploy to firebase
+
+
+All credit for app goes to Rafeh Qazi
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
